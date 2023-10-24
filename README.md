@@ -1,8 +1,8 @@
 ##DESC  
 PERSONAL WEBSITE AND DEPLOY TO NETLIFY
 
-##TECH
+##TECH  
 HTML CSS JAVASCRIPT   
 
-##DEMO
+##DEMO  
 DEMO LINK: https://russellpanweb.netlify.app/  
